@@ -1,2 +1,2 @@
 # tryhackme
-ctf rooms
+main folder
